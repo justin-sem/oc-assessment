@@ -4,5 +4,6 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 .pyrefly/
+.ipynb_checkpoints/
 .env
 .DS_Store
